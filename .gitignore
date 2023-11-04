@@ -1,3 +1,7 @@
+# Editable files for Zenodo
+html/*
+*.html
+
 # History files
 .Rhistory
 .Rapp.history

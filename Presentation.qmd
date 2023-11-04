@@ -1,0 +1,94 @@
+---
+title: "Carbonate facies model"
+author: "Emilia Jarochowska"
+format: 
+  revealjs:
+    theme: simple
+institute: "Utrecht University"
+---
+
+# Facies
+
+Sedimentary: a group of rocks and primary structures indicative of a given depositional environment (Marshak, 2018).
+
+----
+
+[![Whatipu Beach. Follash, CC BY-SA 4.0 \<https://creativecommons.org/licenses/by-sa/4.0\>, via Wikimedia Commons](img/Whatipu_Beach_reflections.jpg)](https://commons.wikimedia.org/wiki/File:Whatipu_Beach_reflections.jpg)
+
+----
+
+[![Travertine forming in Barranco de las Cañadas, Spain. Emilia Jarochowska, CC BY-SA 4.0 \<https://creativecommons.org/licenses/by-sa/4.0\>, via Wikimedia Commons](img/IMG_7035.jpg)](https://commons.wikimedia.org/wiki/File:Travertine_forming_in_Barranco_de_las_Ca%C3%B1adas,_Spain.jpg)
+
+----
+
+[![Wadi al Hayaa District, Libya. giomodica, CC BY 3.0 \<https://creativecommons.org/licenses/by/3.0\>, via Wikimedia Commons](img/panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Deserto_libico_-_Driving_-_panoramio.jpg)
+
+
+# Depositional environments 
+
+Span scales from centimeters to thousands of kilometers. 
+
+When we study ancient depositional environments, we often have only a drill core, several rock samples of an outcrop: we see only a part of the original environment.
+
+To extrapolate the rest we need a **facies model**.
+
+# Tropical carbonate platforms
+
+Carbonate platforms are marine structures built by in situ (allochthonous) organisms producing calcium carbonate.
+
+## Tropical carbonate platforms {.smaller}
+
+![](img/SAM_7954a.jpg)
+
+----
+
+![Figure 1. NASA image created by Jeff Schmaltz, MODIS Rapid Response Team, Goddard Space Flight Center. Caption by Michon Scott.](img/bahamas_amo_2009043.jpg)
+
+----
+
+## Identify depositional environments  {.smaller}
+
+1.  Windward side -- a lot of wave energy
+2.  Leeward side -- protected from wave energy
+3.  Patch reefs
+4.  Reef crest (long ridge formed by reefs)
+5.  Lagoon
+6.  Tidal flat
+7.  Tidal channel
+8.  Sandy beach
+9.  Marsh
+10. Shoals and underwater dunes - submerged ridges, banks, or bars that are shaped by waves and currents
+11. Tidal ponds
+
+## Describe thin sections
+
+![Fragment of a thin section](img/AM_258_copy.jpeg)
+
+## Describe thin sections  {.smaller}
+
+| Question                                                             | Answer |
+|-----------------------------------------------------------|-------------|
+| What type of rock is it?                                             |        |
+| What is the texture?                                                 |        |
+| What are the grains? Can you estimate what mineral they are made of? |        |
+| How is the sorting?                                                  |        |
+| What is the matrix?                                                  |        |
+| What is it according to Dunham classification?                       |        |
+| Have you recognized any organisms?                                   |        |
+| In what environment would you expect to find it?                     |        |
+
+## Create a facies model
+
+Make a graphical sketch of an idealized carbonate platform.
+
+Where is the sea level? 
+
+What environments do you find above the sea level? 
+
+...within the range of the tides? 
+
+...just below the sea level? 
+
+...in the photic zone? 
+
+# What is a model?
